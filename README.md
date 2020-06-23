@@ -5,3 +5,4 @@
 - D
 - Python
 - PHP
+- WebAssembly
