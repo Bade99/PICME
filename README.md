@@ -6,3 +6,4 @@
 - Python
 - PHP
 - WebAssembly
+- Javascript
