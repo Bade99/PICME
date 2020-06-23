@@ -7,3 +7,7 @@
 - PHP
 - WebAssembly
 - Javascript
+
+### Para la próxima:
+- Go
+- D
