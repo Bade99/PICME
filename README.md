@@ -14,12 +14,12 @@
 
 ### Recursos Lenguajes
 - [Server en D con MongoDB](https://d.readthedocs.io/en/latest/examples.html#web-application)
-- [curso GO] (https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqXScanner)
+- [curso GO](https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqXScanner)
 
 ### Recursos Scanner
-- [Finviz] (https://finviz.com/)
-- [Trade Ideas] (https://www.trade-ideas.com/products/)
-- [Benzinga] (https://pro.benzinga.com/screener/)
+- [Finviz](https://finviz.com/)
+- [Trade Ideas](https://www.trade-ideas.com/products/)
+- [Benzinga](https://pro.benzinga.com/screener/)
 
 ### Encuesta PICME
 - Imaginate que Pablo está pensando en viajar por una larga temporada y necesita buscar la manera de sostenerse económicamente mientras da la vuelta al mundo. Está interesado en la fotografía, ya sea como hobby o profesionalmente, y piensa que esa actividad puede generarle ingresos en su viaje.
