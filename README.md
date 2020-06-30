@@ -2,7 +2,7 @@
 
 ### Posibles Lenguajes
 - Go
-- D
+- D 
 - PHP
 - WebAssembly
 - Javascript
@@ -12,7 +12,8 @@
 - D (euge le da una chance)
 - WebAssembly
 
-
+### Recursos
+- [Server en D con MongoDB](https://d.readthedocs.io/en/latest/examples.html#web-application)
 
 ### Encuesta PICME
 - Imaginate que Pablo está pensando en viajar por una larga temporada y necesita buscar la manera de sostenerse económicamente mientras da la vuelta al mundo. Está interesado en la fotografía, ya sea como hobby o profesionalmente, y piensa que esa actividad puede generarle ingresos en su viaje.
