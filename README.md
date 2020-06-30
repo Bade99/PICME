@@ -20,6 +20,7 @@
 - [Finviz](https://finviz.com/)
 - [Trade Ideas](https://www.trade-ideas.com/products/)
 - [Benzinga](https://pro.benzinga.com/screener/)
+- [APIs de información financiera](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984)
 
 ### Encuesta PICME
 - Imaginate que Pablo está pensando en viajar por una larga temporada y necesita buscar la manera de sostenerse económicamente mientras da la vuelta al mundo. Está interesado en la fotografía, ya sea como hobby o profesionalmente, y piensa que esa actividad puede generarle ingresos en su viaje.
