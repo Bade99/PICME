@@ -15,6 +15,7 @@
 ### Recursos Lenguajes
 - [Server en D con MongoDB](https://d.readthedocs.io/en/latest/examples.html#web-application)
 - [curso GO](https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqXScanner)
+- [GO Web App](https://golang.org/doc/articles/wiki/)
 
 ### Recursos Scanner
 - [Finviz](https://finviz.com/)
