@@ -35,3 +35,9 @@ Ana, por el otro lado, está dando sus primeros pasos en la fotografía, y quier
 - ¿Como puntuarías la facilidad para encontrar y visualizar la información que te es útil?
 - ¿Qué aspectos de tu scanner mejorarías?
 - ¿Cuanto pagarías o pagas para incorporar esta herramienta al definir tus trades?
+
+### Estructura del Scanner
+- Corre en la Web, y es gratuito
+- Hay usuarios, te podés registrar, guardás filtros, datos de búsqueda, alertas por mail/cel/etc
+- Tabla con los stocks
+- Gráfico de los stocks (extra: interactivo, podés marcar datos y cosas)
