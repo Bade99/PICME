@@ -30,7 +30,7 @@ Ana, por el otro lado, está dando sus primeros pasos en la fotografía, y quier
 - Si contestaste que sí. ¿Qué mejoras sugerirías a dichos sistemas?
 - Imaginate que te ofrecen una plataforma que resuelve los problemas tanto de Ana, como de Pablo. ¿Lo incorporarías como una herramienta para facilitar tu trabajo fotográfico?
 
-### Encuesta Scanner / Screener
+### [Encuesta Scanner / Screener](https://docs.google.com/forms/d/1dox4yqVDsdFaTCt_beUm6hk9xl0pVeIvzqzqci-aWPc/edit?ts=5f03971e)
 - ¿Utilizás algún scanner de acciones para operar? ¿Cuál?
 - ¿Como puntuarías la facilidad para encontrar y visualizar la información que te es útil?
 - ¿Qué aspectos de tu scanner mejorarías?
