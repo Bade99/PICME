@@ -23,7 +23,7 @@
 - [Benzinga](https://pro.benzinga.com/screener/)
 - [APIs de información financiera](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984)
 
-### Encuesta PICME
+### [Encuesta PICME](https://docs.google.com/forms/d/17f9voyBNncbG_35r3f-m2RkBAduS2ZRfFol630MFhDY/edit?ts=5f0394be)
 - Imaginate que Pablo está pensando en viajar por una larga temporada y necesita buscar la manera de sostenerse económicamente mientras da la vuelta al mundo. Está interesado en la fotografía, ya sea como hobby o profesionalmente, y piensa que esa actividad puede generarle ingresos en su viaje.
 Ana, por el otro lado, está dando sus primeros pasos en la fotografía, y quiere hacer crecer su cartera de clientes. Pudiendole vender sus fotos a las personas que fotografía en el parque, y a las negocios que visita usualmente.
 - ¿Conocés algún sistema que te permita vender tus fotos en el momento a clientes espontáneos? ¿Que sistemas de este estilo conocés?
