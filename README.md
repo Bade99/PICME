@@ -15,6 +15,9 @@
 
 ### Recursos Lenguajes
 - [Server en D con MongoDB](https://d.readthedocs.io/en/latest/examples.html#web-application)
+- [D Programming Basics](https://www.youtube.com/watch?v=rwZFTnf9bDU)
+- [Embedding Python in D programming language](https://www.youtube.com/watch?v=v2oM5Wli2Bw)
+- [Allocating Memory with D](https://www.youtube.com/watch?v=_PB6Hdi4R7M)
 - [curso GO](https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqXScanner)
 - [GO Web App](https://golang.org/doc/articles/wiki/)
 - [Resumen GO](https://golangbot.com/learn-golang-series/)
