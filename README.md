@@ -24,6 +24,8 @@
 - [Trade Ideas](https://www.trade-ideas.com/products/)
 - [Benzinga](https://pro.benzinga.com/screener/)
 - [APIs de información financiera](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984)
+- [Stock Rober](https://www.stockrover.com/plans/)
+- [Hammerstone](https://www.hammerstonemarkets.com/)
 
 ### [Encuesta PICME](https://docs.google.com/forms/d/17f9voyBNncbG_35r3f-m2RkBAduS2ZRfFol630MFhDY/edit?ts=5f0394be)
 [Formulario PICME](https://forms.gle/FwJPuzNHHgCMuV5p8)
