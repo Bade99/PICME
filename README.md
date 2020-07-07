@@ -10,6 +10,7 @@
 ### Para la próxima:
 - D (euge le da una chance)
 - C# (euge investiga)
+- Ruby y Scala (bade le pega una mirada a la distancia)
 
 ### Recursos Lenguajes
 - [Server en D con MongoDB](https://d.readthedocs.io/en/latest/examples.html#web-application)
