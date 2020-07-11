@@ -30,6 +30,9 @@
 - [Stock Rober](https://www.stockrover.com/plans/)
 - [Hammerstone](https://www.hammerstonemarkets.com/)
 
+### Recursos Picme
+- [Pagina para vender Fotos y Diseños](https://www.patreon.com/)
+
 ### [Encuesta PICME](https://docs.google.com/forms/d/17f9voyBNncbG_35r3f-m2RkBAduS2ZRfFol630MFhDY/edit?ts=5f0394be)
 [Formulario PICME](https://forms.gle/FwJPuzNHHgCMuV5p8)
 
