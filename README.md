@@ -11,6 +11,7 @@
 - Scala
 - C
 - C++
+- Python
 ### Para la próxima:
 - D (euge le da una chance)
 - C# (euge investiga)
