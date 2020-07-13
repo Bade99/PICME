@@ -6,11 +6,14 @@
 - PHP
 - WebAssembly
 - Javascript
-
+### Lenguajes Expulsados (para el server)
+- Ruby
+- Scala
+- C
+- C++
 ### Para la próxima:
 - D (euge le da una chance)
 - C# (euge investiga)
-- Ruby y Scala (bade le pega una mirada a la distancia)
 - Rust (pispeo que es el tema de seguridad que tanto hablan)
 
 ### Recursos Lenguajes
