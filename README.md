@@ -6,6 +6,7 @@
 - PHP
 - WebAssembly
 - Javascript
+- Rust?
 ### Lenguajes Expulsados (para el server)
 - Ruby
 - Scala
@@ -15,7 +16,6 @@
 ### Para la próxima:
 - D (euge le da una chance)
 - C# (euge investiga)
-- Rust (pispeo que es el tema de seguridad que tanto hablan)
 
 ### Recursos Lenguajes
 - [Server en D con MongoDB](https://d.readthedocs.io/en/latest/examples.html#web-application)
