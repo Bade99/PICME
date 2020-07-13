@@ -1,5 +1,9 @@
 # PICME
 
+### Lenguaje del Server: D
+
+### Diseño de UI/UX: Figma o Adobe XD
+
 ### Posibles Lenguajes
 - Go
 - D 
