@@ -2,8 +2,8 @@
 
 ### Lenguaje del Server: D
 ## Instalación de D
-1. Ir a dlang.org/download.html, descargar e instalar el compilador DMD, en la instalación agregar el complemento de VisualD que permite integrarse con Visual Studio.
-2. Descargar el Package Manager de D, DUB desde github.com/dlang/dub/releases, no se instala, meté el exe en alguna carpeta que quieras
+1. [Descargar](https://dlang.org/download.html) e instalar el compilador DMD, en la instalación agregar el complemento de VisualD que permite integrarse con Visual Studio.
+2. [Descargar](https://github.com/dlang/dub/releases) el Package Manager de D, DUB, no se instala, meté el exe en alguna carpeta que quieras
 3. Agregar DUB al PATH: Equipo -> Click derecho -> Propiedades -> Configuración Avanzada del Sistema -> Variables de Entorno -> En "Variables del sistema" ó "Variables de usuario" seleccionar la que diga "Path" -> Editar -> Examinar -> Buscá la carpeta donde hayas puesto DUB -> Aceptar x2
 
 ### Diseño de UI/UX: Figma o Adobe XD
