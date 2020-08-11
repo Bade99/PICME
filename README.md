@@ -1,5 +1,7 @@
 # PICME
 
+## GO (D decidió no funcionar así q abandonamos el bote)
+
 ### Lenguaje del Server: D
 ## Instalación de D
 1. [Descargar](https://dlang.org/download.html) e instalar el compilador DMD
