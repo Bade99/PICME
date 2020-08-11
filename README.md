@@ -7,6 +7,12 @@
 3. Agregar DUB al PATH: Equipo -> Click derecho -> Propiedades -> Configuración Avanzada del Sistema -> Variables de Entorno -> En "Variables del sistema" ó "Variables de usuario" seleccionar la que diga "Path" -> Editar -> Examinar -> Buscá la carpeta donde hayas puesto DUB -> Aceptar x2
 4. En Visual Studio ir a "Extenssions"->"Manage Extensions"->Buscar->visuald->Descargar/Instalar
 
+## Creacion de proyecto desde 0
+1. En cmd: dub init <nombre>
+2. En dub.sdl o .json (dependiendo el q elijas) agregar dependencias de paquetes de dub: dependency "vibe-d" version="~>0.8.0"
+3. En cmd: dub add vibe-d
+4. Creas la solución de visual studio con: dub generate visuald
+
 ### Diseño de UI/UX: Figma (nooooooooooooooooooo) o Adobe XD (si)
 
 ### Posibles Lenguajes
